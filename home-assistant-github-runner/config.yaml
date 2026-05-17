@@ -34,5 +34,5 @@ schema:
   RUNNER_GROUP: str?
   GITHUB_HOST: str?
   NO_DEFAULT_LABELS: bool?
-image: myoung34/github-runner
+image: myoung34/github-runner:ubuntu-jammy
 version: ubuntu-jammy
