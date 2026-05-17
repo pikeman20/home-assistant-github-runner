@@ -1,6 +1,6 @@
 name: Github Self-Hosted Runner
 description: A configurable GitHub self-hosted runner for Home Assistant
-url: https://github.com/Baz00k/home-assistant-github-runner
+url: https://github.com/pikeman20/home-assistant-github-runner
 slug: github_runner
 arch:
   - amd64
