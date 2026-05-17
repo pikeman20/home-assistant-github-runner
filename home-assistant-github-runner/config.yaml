@@ -35,4 +35,4 @@ schema:
   GITHUB_HOST: str?
   NO_DEFAULT_LABELS: bool?
 image: myoung34/github-runner
-version: ubuntu-focal
+version: ubuntu-jammy
